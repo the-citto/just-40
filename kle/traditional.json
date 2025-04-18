@@ -1,14 +1,21 @@
 [
+  {
+    "backcolor": "#000000",
+    "name": "Just 40 Traditional Keys",
+    "author": "The-Citto",
+    "radii": "10px",
+    "pcb": false,
+    "plate": false
+  },
   [
     {
       "c": "#FFDD00",
-      "t": "#cccccc",
+      "t": "#333333",
       "a": 7
     },
-    "",
+    "Esc",
     {
-      "c": "#cccccc",
-      "t": "#333333"
+      "c": "#cccccc"
     },
     "Q",
     "W",
@@ -25,13 +32,13 @@
       "t": "#cccccc",
       "w": 1.5
     },
-    ""
+    "Back"
   ],
   [
     {
       "w": 1.25
     },
-    "",
+    "Tab",
     {
       "c": "#cccccc",
       "t": "#333333"
@@ -47,19 +54,17 @@
     "L",
     {
       "c": "#FFDD00",
-      "a": 5,
       "w": 2.25
     },
-    "\n225"
+    "Enter"
   ],
   [
     {
       "c": "#333333",
       "t": "#cccccc",
-      "a": 7,
       "w": 1.75
     },
-    "",
+    "Shift",
     {
       "c": "#cccccc",
       "t": "#333333"
@@ -75,33 +80,31 @@
       "c": "#333333",
       "t": "#cccccc"
     },
-    "FN3",
+    "Fn3",
     {
       "w": 2.75
     },
-    ""
+    "Shift"
   ],
   [
-    "CTRL",
-    "SUPER",
-    "ALT",
+    "Ctrl",
+    "Super",
+    "Alt",
     {
       "c": "#FFDD00",
       "t": "#333333",
-      "a": 5,
       "w": 6.25
     },
-    "\n625",
+    "",
     {
       "c": "#333333",
-      "t": "#cccccc",
-      "a": 7
+      "t": "#cccccc"
     },
-    "FN1",
-    "FN2",
+    "Fn1",
+    "Fn2",
     {
       "w": 1.25
     },
-    "CTRL"
+    "Ctrl"
   ]
 ]

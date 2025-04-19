@@ -15,16 +15,6 @@ I love being able to reach more keys/controls moving my palms less!
 Changed the switches to Gateron banana, added o-rings
 and by then I relized I was already too deep into the rabbit hole... concerning how little it took!
 
-I've searched for qute some time for 40% offerings, the most interesting to me
- - [Vortex Core Plus](https://vortexgear.store/products/core-plus)
- - [Litl keyboard](https://sthlmkb.com/shop/litl-keyboard-kit/)
- - [Skelett 40](https://novelkeys.com/collections/keyboards/products/skelett-40-keyboard-kit)
-
-All three are very nice but none has RGB (not sure about the Core),
-the Core has too many keys (well, not really, but then why leave my nice 60%?),
-and both Litl and Skelett have some key not where I wish they were...
-
-
 #### Why 40%?
 
 Ergonomics!
@@ -41,6 +31,21 @@ honestly I can't understand why I never read this from anybody else.
 
 Last, as a musician, I really don't mind moving my fingers even in weird 'contorsions',
 so long as I can keep my elbows and wrists relaxed.
+
+#### Alternatives / Inspirations
+I've searched for qute some time for 40% offerings, the most interesting to me
+ - [Vortex Core Plus](https://vortexgear.store/products/core-plus)
+ - [Litl keyboard](https://sthlmkb.com/shop/litl-keyboard-kit/)
+ - [Skelett 40](https://novelkeys.com/collections/keyboards/products/skelett-40-keyboard-kit)
+
+All three are very nice but none has RGB (not sure about the Core),
+the Core has too many keys (well, not really, but then why leave my nice 60%?),
+and both Litl and Skelett have some key not where I wish they were...
+
+I really liked the Litl look with the electronics exposed, 
+I'll surely take inspiration as much as from several ortholinear split seen around.
+No rotary though, I'll likely add LEDs for battery, `Caps`, `Nums`, 
+Bluetooth (I want 3), etc., with the same info from the LEDs in an OLED with extra details (and a typing cat).
 
 ## KLEs
 
@@ -73,6 +78,10 @@ different colours for the ones that needed to be completely moved.
 
 More likely I'll use the keycaps with the punctuation to get used with it, and blanks for the keys not mapped here.
 
+#### Hardware Controls
+
+Never used media keys etc., but surely Bluetooth selectors and `NKRO`, 
+likely some control for the OLED, like show battery level etc.... at that point I should also add media and some RGB keys.
 
 ### HHBK
 With a 2.25 as spacebar it turns out as a nice [HHKB](https://www.keyboard-layout-editor.com/#/) style.

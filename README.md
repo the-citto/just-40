@@ -23,13 +23,14 @@ I want to move my hands even less than I do with the 60%
 
 #### Why staggered vs ortholinear split?
 
-I mulled for long about it, but I feel staggered bewing ergonomic just right.
+I mulled for long about it, but I feel staggered being ergonomic just right.
 
 My hands and wrists are correctly angled, the same as they would be on a split,
-and in that position the staggered keys turn out to be int the right position -
+and in that position the staggered keys turn out to be vertical relative to my fingers...
 honestly I can't understand why I never read this from anybody else.
 
-Last, as a musician, I really don't mind moving my fingers even in weird 'contorsions',
+Last, as a musician, I really don't mind [twisting](https://en.wikipedia.org/wiki/Twister_(game))
+my fingers for some keyboard shortct combination,
 so long as I can keep my elbows and wrists relaxed.
 
 #### Alternatives / Inspirations

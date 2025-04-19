@@ -9,7 +9,8 @@ Started the project after just one year of having started using mechanical keybo
 Just a month or two after the first Keychron K8 Pro ISO, I swithced to a 
 Keychron K1 Pro ANSI (low profile). The K8 was nice and the K1 much nicer.
 
-Less then a month before starting theis repo I switched to the 60% K9 Pro - even better.
+Less then a month before starting this project, I switched to the 60% K9 Pro - even better: 
+I love being able to reach more keys/controls moving my palms less! 
 
 Changed the switches to Gateron banana, added o-rings
 and by then I relized I was already too deep into the rabbit hole... concerning how little it took!
@@ -66,11 +67,15 @@ With the standard spacebar, remaining as close as possible to standard 60%, 80%,
 
 #### Navigation Layer
 
-Based on what I'm using for my 60%.
-
-The colour hints are about what I'd like to get from the [firmware](#firmware)
+The colour hints are about what I'd like to get from the [firmware](#firmware). 
+Perhaps `Nums` and `Caps` should have a dedicatred colour, but then what about `Del` and `Backspace`? 
+On a normal keyboard `Del` is grouped with `Ins`...
 
 ![navigation layer](kle/traditional_nav_layer.png)
+
+This mapping is based on what I'm using for my 60%, 
+but I'll likely move the `NumPad`s in a less used layer in favour of `F` keys much more needed -
+on my 60% the `F` keys are mapped on `1` to `= +`
 
 #### HHBK
 With a 2.25 as spacebar it turns out as a nice [HHKB](https://www.keyboard-layout-editor.com/#/) style.

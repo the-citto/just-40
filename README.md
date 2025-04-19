@@ -68,7 +68,7 @@ Will be mounted south-facing.
 
 ### Microcontroller
 
-Undecided, some option
+Undecided, some option, all with (required) Bluetooth 
 
 [Pimoroni Pico Plus 2 W](https://shop.pimoroni.com/products/pimoroni-pico-plus-2-w?variant=42182811942995) - not-original Rasperry
 

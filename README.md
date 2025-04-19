@@ -48,12 +48,14 @@ so long as I can keep my elbows and wrists relaxed.
 
 Both layouts use the same keys for the same columns, just different key sizes.
 
-#### Base Layer
+### Layers
+
+#### Base
 With the standard spacebar, remaining as close as possible to standard 60%, 80%, and 100%.
 
 ![base layer](kle/traditional.png)
 
-#### Navigation Layer
+#### Navigation
 
 The colour hints are about what I'd like to get from the [firmware](#firmware).
 
@@ -62,7 +64,17 @@ The colour hints are about what I'd like to get from the [firmware](#firmware).
 This mapping is based on what I'm using for my 60%, 
 I'll have to get used to the `F` keys as there I have them mapped on `1` to `= +`
 
-#### HHBK
+#### Punctuation
+
+![punctuation layer](kle/traditional_punct_layer.png)
+
+Also with colour hints, some of the keys are where they could be expected to be, 
+different colours for the ones that needed to be completely moved.
+
+More likely I'll use the keycaps with the punctuation to get used with it, and blanks for the keys not mapped here.
+
+
+### HHBK
 With a 2.25 as spacebar it turns out as a nice [HHKB](https://www.keyboard-layout-editor.com/#/) style.
 Perhaps it'll be more ergonomic, but moving further away from standards measures, which is what I want to achieve.
 

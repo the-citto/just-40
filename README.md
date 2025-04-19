@@ -67,15 +67,12 @@ With the standard spacebar, remaining as close as possible to standard 60%, 80%,
 
 #### Navigation Layer
 
-The colour hints are about what I'd like to get from the [firmware](#firmware). 
-Perhaps `Nums` and `Caps` should have a dedicatred colour, but then what about `Del` and `Backspace`? 
-On a normal keyboard `Del` is grouped with `Ins`...
+The colour hints are about what I'd like to get from the [firmware](#firmware).
 
 ![navigation layer](kle/traditional_nav_layer.png)
 
 This mapping is based on what I'm using for my 60%, 
-but I'll likely move the `NumPad`s in a less used layer in favour of `F` keys much more needed -
-on my 60% the `F` keys are mapped on `1` to `= +`
+I'll have to get used to the `F` keys as there I have them mapped on `1` to `= +`
 
 #### HHBK
 With a 2.25 as spacebar it turns out as a nice [HHKB](https://www.keyboard-layout-editor.com/#/) style.

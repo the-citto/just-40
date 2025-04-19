@@ -57,11 +57,25 @@ While I'm there I'll use hot-swaps.
 
 [Gateron KS-33 Low Profile 2.0 Banana Switch](https://www.gateron.com/products/gateron-ks-33-low-profile-20-banana-switch?VariantsId=10734)
 
-[datasheet](https://cdn.shopify.com/s/files/1/0565/8070/2297/files/SPEC-KS-33Y10B60NN-D137_Rev-1_KS-33_Banana_Switch.pdf?v=1691379067)
+Will be mounted south-facing.
 
+### Stabilizers
 
- - [Gateron Low Profile Switch Hot-swap PCB 2.0 Socket](https://www.gateron.com/products/gateron-low-profile-switch-hot-swap-pcb-socket?VariantsId=10234)
- - [Gateron Low Profile Plate Mounted Stabilizer](https://www.gateron.com/products/gateron-low-profile-plate-mounted-stabilizer?VariantsId=10477)
+[Gateron Low Profile Plate Mounted Stabilizer](https://www.gateron.com/products/gateron-low-profile-plate-mounted-stabilizer?VariantsId=10477)
+
+### Hot-swap sockets
+[Gateron Low Profile Switch Hot-swap PCB 2.0 Socket](https://www.gateron.com/products/gateron-low-profile-switch-hot-swap-pcb-socket?VariantsId=10234)
+
+### Microcontroller
+
+Undecided, some option
+
+[Pimoroni Pico Plus 2 W](https://shop.pimoroni.com/products/pimoroni-pico-plus-2-w?variant=42182811942995) - not-original Rasperry
+
+[Raspberry Pi Pico 2 W](https://www.raspberrypi.com/products/raspberry-pi-pico-2/) - not USB-C
+
+[STMicroelectronics STM32F411 BlackPill](https://www.st.com/en/microcontrollers-microprocessors/stm32f411.html) - expensive?
+
 
 
 ## kicad

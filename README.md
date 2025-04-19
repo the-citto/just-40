@@ -2,6 +2,8 @@
 
 A 40% keyboard project, with just 40 keys.
 
+![traditional keys](kle/traditional.png)
+
 Started the project after just one year of having started using mechanical keyboards. 
 
 Just a month or two after the first Keychron K8 Pro ISO, I swithced to a 
@@ -51,6 +53,32 @@ to get per-key colours, particularly on layers.
 
 While I'm there I'll use hot-swaps.
 
+## KLEs
+
+[Keyboard-Layout-Editor](https://www.keyboard-layout-editor.com/#/) configurations.
+
+Both layouts use the same keys for the same columns, just different key sizes.
+
+#### Base Layer
+With the standard spacebar, remaining as close as possible to standard 60%, 80%, and 100%.
+
+![base layer](kle/traditional.png)
+
+#### Navigation Layer
+
+Based on what I'm using for my 60%.
+
+The colour hints are about what I'd like to get from the [firmware](#firmware)
+
+![navigation layer](kle/traditional_nav_layer.png)
+
+#### HHBK
+With a 2.25 as spacebar it turns out as a nice [HHKB](https://www.keyboard-layout-editor.com/#/) style.
+Perhaps it'll be more ergonomic, but moving further away from standards measures, which is what I want to achieve.
+
+![HHKB sized](kle/hhkb.png)
+
+
 ## Hardware
 
 ### Switches
@@ -78,26 +106,9 @@ Undecided, some option, all with (required) Bluetooth
 
 
 
-## kicad
+## KiCad
+
+## Firmware
 
 
-
-
-## KLEs
-
-[Keyboard-Layout-Editor](https://www.keyboard-layout-editor.com/#/) configurations.
-
-Both layouts use the same keys for the same columns, just different key sizes.
-
-#### Traditional
-With the standard spacebar remaining as close as possible to standard
-60%, 80%, and 100%.
-
-![traditional keys](kle/traditional.png)
-
-#### HHBK
-The [HHKB](https://www.keyboard-layout-editor.com/#/) style will perhaps be more ergonomic,
-but moving further away from standards.
-
-![traditional keys](kle/hhkb.png)
 

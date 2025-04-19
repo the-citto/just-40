@@ -42,18 +42,6 @@ honestly I can't understand why I never read this from anybody else.
 Last, as a musician, I really don't mind moving my fingers even in weird 'contorsions',
 so long as I can keep my elbows and wrists relaxed.
 
-## Specs
-
-Considered handwiring and I know I would have loved it, but wanting RGB it seemed prohivitive.
-
-Low profile for the ergonomics. Really considered hard to use standard MX,
-mostly for the stabilizers since I can't say I like the low profile's, but MXLPs will be.
-
-RGB because I'm a kid at heart (but no animations). I've been wanting to try customizing QKM
-to get per-key colours, particularly on layers.
-
-While I'm there I'll use hot-swaps.
-
 ## KLEs
 
 [Keyboard-Layout-Editor](https://www.keyboard-layout-editor.com/#/) configurations.
@@ -83,7 +71,18 @@ Perhaps it'll be more ergonomic, but moving further away from standards measures
 
 ## Hardware
 
+I considered handwiring and I know I would have loved it, but wanting RGB
+and as low a possible profile, it seemed prohivitive.
+
+RGB because I'm a kid at heart (but no animations). I've been wanting to try customizing QKM
+to get per-key colours, particularly on layers.
+
+While I'm there I'll use [hot-swap sockets](#hot-swap-sockets).
+
 ### Switches
+
+Low profile for the ergonomics. Really considered hard to use standard MX,
+mostly for the stabilizers since I can't say I like the low profile's, but MXLPs will be.
 
 [Gateron KS-33 Low Profile 2.0 Banana Switch](https://www.gateron.com/products/gateron-ks-33-low-profile-20-banana-switch?VariantsId=10734)
 
@@ -91,9 +90,12 @@ Will be mounted south-facing ([somebody did it](https://www.xda-developers.com/w
 
 ### Stabilizers
 
+See comments in the [switches section](#switches)
+
 [Gateron Low Profile Plate Mounted Stabilizer](https://www.gateron.com/products/gateron-low-profile-plate-mounted-stabilizer?VariantsId=10477)
 
 ### Hot-swap sockets
+
 [Gateron Low Profile Switch Hot-swap PCB 2.0 Socket](https://www.gateron.com/products/gateron-low-profile-switch-hot-swap-pcb-socket?VariantsId=10234)
 
 ### Microcontroller

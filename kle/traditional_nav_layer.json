@@ -1,0 +1,156 @@
+[
+  {
+    "backcolor": "#000000",
+    "name": "Just 40 Traditional Keys - Navigation Layer",
+    "author": "The-Citto",
+    "radii": "10px",
+    "pcb": false,
+    "plate": false
+  },
+  [
+    {
+      "c": "#FFDD00",
+      "t": "#333333",
+      "a": 7
+    },
+    "Esc",
+    {
+      "c": "#ffbbbb"
+    },
+    "Print",
+    {
+      "c": "#bbbbff"
+    },
+    "↑",
+    {
+      "c": "#bbffbb"
+    },
+    "PgUp",
+    {
+      "c": "#ffffbb"
+    },
+    "Home",
+    {
+      "c": "#ffbbbb"
+    },
+    "Ins",
+    {
+      "c": "#bbffff"
+    },
+    "7",
+    "8",
+    "9",
+    {
+      "c": "#cccccc"
+    },
+    "",
+    {
+      "c": "#ffbbbb"
+    },
+    "Menu",
+    {
+      "c": "#770000",
+      "t": "#cccccc",
+      "w": 1.5
+    },
+    "Del"
+  ],
+  [
+    {
+      "c": "#333333",
+      "w": 1.25
+    },
+    "Tab",
+    {
+      "c": "#bbbbff",
+      "t": "#333333"
+    },
+    "←",
+    "↓",
+    "→",
+    {
+      "c": "#bbffbb"
+    },
+    "PgDn",
+    {
+      "c": "#ffffbb"
+    },
+    "End",
+    {
+      "c": "#bbffff"
+    },
+    "4",
+    "5",
+    "6",
+    {
+      "c": "#cccccc"
+    },
+    "",
+    {
+      "c": "#ff7777",
+      "w": 2.25
+    },
+    "NumEnter"
+  ],
+  [
+    {
+      "c": "#333333",
+      "t": "#cccccc",
+      "w": 1.75
+    },
+    "Shift",
+    {
+      "c": "#cccccc",
+      "t": "#333333"
+    },
+    "",
+    {
+      "c": "#ffbbbb"
+    },
+    "Caps",
+    "Nums",
+    {
+      "c": "#bbffff"
+    },
+    "0",
+    "1",
+    "2",
+    "3",
+    {
+      "c": "#333333",
+      "t": "#cccccc"
+    },
+    "Fn3",
+    {
+      "w": 2.75
+    },
+    "Shift"
+  ],
+  [
+    "Ctrl",
+    {
+      "c": "#770000"
+    },
+    "RSuper",
+    "RAlt",
+    {
+      "c": "#FFDD00",
+      "t": "#333333",
+      "w": 6.25
+    },
+    "",
+    {
+      "c": "#cc0000",
+      "t": "#cccccc"
+    },
+    "Fn1",
+    {
+      "c": "#333333"
+    },
+    "Fn2",
+    {
+      "w": 1.25
+    },
+    "Ctrl"
+  ]
+]

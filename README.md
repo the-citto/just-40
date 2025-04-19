@@ -57,7 +57,7 @@ While I'm there I'll use hot-swaps.
 
 [Gateron KS-33 Low Profile 2.0 Banana Switch](https://www.gateron.com/products/gateron-ks-33-low-profile-20-banana-switch?VariantsId=10734)
 
-Will be mounted south-facing.
+Will be mounted south-facing ([somebody did it](https://www.xda-developers.com/what-i-want-in-my-dream-keyboard/#:~:text=South%2Dfacing%20customizable%20LEDs).)
 
 ### Stabilizers
 

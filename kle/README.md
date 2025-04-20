@@ -10,7 +10,7 @@ With the standard spacebar, remaining as close as possible to standard 60%, 80%,
 
 #### Navigation
 
-The colour hints are about what I'd like to get from the [firmware](#firmware).
+The colour hints are about what I'd like to get from the firmware.
 
 ![navigation layer](traditional_nav_layer.png)
 
@@ -18,6 +18,8 @@ This mapping is based on what I'm using for my 60%,
 I'll have to get used to the `F` keys as there I have them mapped on `1` to `= +`
 
 #### Punctuation
+
+Numbers wiil be `NumberPad` and `Enter` `NumEnter` when `NumLock` active.
 
 ![punctuation layer](traditional_punct_layer.png)
 

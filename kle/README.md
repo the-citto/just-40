@@ -1,3 +1,6 @@
+
+[Keyboard-Layout-Editor](https://www.keyboard-layout-editor.com/#/) configurations.
+
 # Layers
 
 #### Base
@@ -33,4 +36,6 @@ With a 2.25 as spacebar it turns out as a nice [HHKB](https://www.keyboard-layou
 Perhaps it'll be more ergonomic, but moving further away from standards measures, which is what I want to achieve.
 
 ![HHKB sized](hhkb.png)
+
+This HHKB style uses the same keys for the same columns as the 'normal' one, just different key sizes.
 

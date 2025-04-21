@@ -93,6 +93,10 @@ Undecided, some option, all with (required) Bluetooth
 
 ## KiCad
 
+### 3rd party libraries
+
+[MX_V2](https://github.com/ai03-2725/MX_V2)
+
 ## Firmware
 
 

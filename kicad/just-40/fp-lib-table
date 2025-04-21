@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "/home/alex/.dev/just-40/kicad/Libraries/footprints")(options "")(descr ""))
+  (lib (name "Gateron_KS33_Hotswap")(type "KiCad")(uri "/home/alex/.dev/just-40/kicad/MX_V2/Gateron_KS33_Hotswap.pretty")(options "")(descr ""))
+)

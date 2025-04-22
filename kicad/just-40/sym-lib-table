@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Gateron-KS33-Hotswap")(type "KiCad")(uri "/home/alex/.dev/just-40/kicad/libraries/symbols/Gateron-KS33-Hotswap.kicad_sym")(options "")(descr ""))
+)

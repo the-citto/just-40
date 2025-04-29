@@ -60,6 +60,10 @@ to get per-key colours, particularly on layers.
 
 While I'm there I'll use [hot-swap sockets](#hot-swap-sockets).
 
+### LEDs
+
+[NeoPixel Reverse Mount RGB LEDs](https://www.digikey.co.uk/en/products/detail/adafruit-industries-llc/4960/14302512)
+
 ### Switches
 
 Low profile for the ergonomics. Really considered hard to use standard MX,

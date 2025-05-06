@@ -1,0 +1,8 @@
+{
+    "typeCheckingMode": "basic",
+    "reportMissingImports": "none",
+    "typeshedPath": [
+        ".venv/Lib/site-packages",
+        "typings"
+    ]
+}

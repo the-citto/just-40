@@ -1,40 +1,21 @@
 # Just 40
 
-A 40% keyboard project, with just 40 keys.
+A 40% keyboard project, just 40 keys.
 
 ![traditional keys](kle/traditional.png)
 
-Started the project after just one year of having started using mechanical keyboards. 
+I do like the staggered layout, with wrists slightly angled the keys turn out just alligned.
+Plus, the layout and key sizes are the same as the standards 60% (the one I'm using now), 80%, and 100%.
 
-Just a month or two after the first Keychron K8 Pro ISO, I swithced to a 
-Keychron K1 Pro ANSI (low profile). The K8 was nice and the K1 much nicer.
+> The right side could be trimmed by 1/2 a key, or the left side lengthened by the same,
+> but this way I can use the different colours for ESC and ENTER - and SPACE.
+>
+> Black unmarked [YMDK ultra slim low profile](https://ymdkey.com/search?q=Ultra-slim+Low+profile) for the control keys,
+> [XVX Skyline R2](https://www.xvxchannel.com/en-gb/collections/low-profile-keycaps/products/xvx-skyline-r2) for alphas which I like morefor feel and sound.
 
-Less then a month before starting this project, I switched to the 60% K9 Pro - even better: 
-I love being able to reach more keys/controls moving my palms less! 
-
-Changed the switches to Gateron banana, added o-rings
-and by then I relized I was already too deep into the rabbit hole... concerning how little it took!
-
-#### Why 40%?
-
-Ergonomics!
-
-I want to move my hands even less than I do with the 60%
-
-#### Why staggered vs ortholinear split?
-
-I mulled for long about it, but I feel staggered being ergonomic just right.
-
-My hands and wrists are correctly angled, the same as they would be on a split,
-and in that position the staggered keys turn out to be vertical relative to my fingers...
-honestly I can't understand why I never read this from anybody else.
-
-Last, as a musician, I really don't mind [twisting](https://en.wikipedia.org/wiki/Twister_(game))
-my fingers for some keyboard shortct combination,
-so long as I can keep my elbows and wrists relaxed.
 
 #### Alternatives / Inspirations
-I've searched for qute some time for 40% offerings, the most interesting to me
+I've searched for quite some time for 40% offerings, the most interesting to me
  - [Vortex Core Plus](https://vortexgear.store/products/core-plus)
  - [Litl keyboard](https://sthlmkb.com/shop/litl-keyboard-kit/)
  - [Skelett 40](https://novelkeys.com/collections/keyboards/products/skelett-40-keyboard-kit)
@@ -43,11 +24,7 @@ All three are very nice but none has RGB (not sure about the Core),
 the Core has too many keys (well, not really, but then why leave my nice 60%?),
 and both Litl and Skelett have some key not where I wish they were...
 
-I really liked the Litl look with the electronics exposed, 
-I'll surely take inspiration as much as from several ortholinear split seen around.
-No rotary though, I'll likely add LEDs for battery, `Caps`, `Nums`, 
-Bluetooth (I want 3), etc., with the same info from the LEDs in an OLED with extra details (and a typing cat).
-
+## KLEs
 [KLEs](kle/README.md)
 
 ## Hardware
@@ -85,23 +62,15 @@ See comments in the [switches section](#switches)
 
 ### Microcontroller
 
-Undecided, some option, all with (required) Bluetooth 
-
-[Pimoroni Pico Plus 2 W](https://shop.pimoroni.com/products/pimoroni-pico-plus-2-w?variant=42182811942995) - not-original Rasperry
-
 [Raspberry Pi Pico 2 W](https://www.raspberrypi.com/products/raspberry-pi-pico-2/) - not USB-C
 
-[STMicroelectronics STM32F411 BlackPill](https://www.st.com/en/microcontrollers-microprocessors/stm32f411.html) - expensive?
+## KiCAD
 
-
-
-## KiCad
-
-### 3rd party libraries
-
-[MX_V2](https://github.com/ai03-2725/MX_V2)
+## FreeCAD
 
 ## Firmware
+
+MicroPython
 
 
 

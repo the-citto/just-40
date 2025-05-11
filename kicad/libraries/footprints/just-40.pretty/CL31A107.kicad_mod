@@ -1,32 +1,32 @@
-(footprint "CL31A107MQHNNWE"
+(footprint "CL31A107"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 -1.4 0)
+		(at -1.6 0 90)
 		(unlocked yes)
-		(layer "B.SilkS")
+		(layer "B.Fab")
 		(uuid "510bd0d4-1d0a-4222-8c60-cd6893c0847f")
 		(effects
 			(font
-				(size 0.5 0.5)
+				(size 0.8 0.8)
 				(thickness 0.1)
 			)
 			(justify mirror)
 		)
 	)
-	(property "Value" "CL31A107MQHNNWE"
-		(at 0 1.4 0)
+	(property "Value" "CL31A107"
+		(at 2.1 0 90)
 		(unlocked yes)
 		(layer "B.SilkS")
 		(uuid "760f6565-9643-449c-aeef-d06d154ce754")
 		(effects
 			(font
-				(size 0.5 0.5)
+				(size 0.8 0.8)
 				(thickness 0.125)
 			)
-			(justify mirror)
+			(justify bottom mirror)
 		)
 	)
 	(property "Datasheet" ""
@@ -56,43 +56,32 @@
 		)
 	)
 	(attr smd)
-	(fp_rect
-		(start -1.6 -0.8)
-		(end 1.6 0.8)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(fill no)
-		(layer "B.SilkS")
-		(uuid "1d17522f-a795-470f-a3d1-33388e1d6d20")
-	)
 	(fp_text user "${REFERENCE}"
-		(at 0 2.2 0)
+		(at 2.8 0 90)
 		(unlocked yes)
 		(layer "B.Fab")
 		(uuid "7f254f6e-9cc3-4822-af5d-35cce55b8723")
 		(effects
 			(font
-				(size 0.5 0.5)
+				(size 0.8 0.8)
 				(thickness 0.125)
 			)
 			(justify mirror)
 		)
 	)
 	(pad "1" smd rect
-		(at 1.8 0)
+		(at 0 1.8 90)
 		(size 1.4 2)
 		(layers "B.Cu" "B.Mask" "B.Paste")
 		(thermal_bridge_angle 45)
-		(uuid "ba17a07b-6174-4913-a511-c428cd3fe313")
+		(uuid "04aa83f2-0256-42ee-a4c4-53826660e6cc")
 	)
 	(pad "2" smd rect
-		(at -1.8 0)
+		(at 0 -1.8 90)
 		(size 1.4 2)
 		(layers "B.Cu" "B.Mask" "B.Paste")
 		(thermal_bridge_angle 45)
-		(uuid "988f988c-d20c-42d6-9956-210e6344e36f")
+		(uuid "1d8f6dc8-788f-4c52-927d-4e6a843d2fea")
 	)
 	(embedded_fonts no)
 )

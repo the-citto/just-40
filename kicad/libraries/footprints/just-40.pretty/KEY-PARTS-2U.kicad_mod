@@ -110,8 +110,8 @@
 		(uuid "5fe3f76f-1d8b-4b50-a765-ad1132709ea7")
 	)
 	(fp_rect
-		(start 4.996 -1.385)
-		(end 6.796 1.415)
+		(start 6.796 1.415)
+		(end 4.996 -1.385)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -120,7 +120,7 @@
 		(layer "B.SilkS")
 		(uuid "488de710-1bdd-4774-8016-8a5f3815d399")
 	)
-	(fp_text user "KS-33-1U"
+	(fp_text user "KS-33-2U"
 		(at 0.17 -7.366 0)
 		(unlocked yes)
 		(layer "F.SilkS")
@@ -311,7 +311,7 @@
 		(uuid "8e665af0-ec38-47db-be70-235676e94f71")
 	)
 	(pad "D_1" smd roundrect
-		(at 5.896 -1.585 90)
+		(at 5.896 1.615 270)
 		(size 1.2 1.2)
 		(layers "B.Cu" "B.Mask" "B.Paste")
 		(roundrect_rratio 0.15)
@@ -319,7 +319,7 @@
 		(uuid "51ec3ea8-6e95-4e32-a30b-070d319f367c")
 	)
 	(pad "D_2" smd rect
-		(at 5.896 1.615 90)
+		(at 5.896 -1.585 270)
 		(size 1.2 1.2)
 		(layers "B.Cu" "B.Mask" "B.Paste")
 		(thermal_bridge_angle 45)
@@ -328,13 +328,12 @@
 	(group ""
 		(uuid "228bedb5-2dcf-4e75-8c76-9c5d5c9224df")
 		(members "09885a34-71a9-411c-9aba-1bff7a859a8d" "0c536b3d-12a3-43a6-8fb0-85e37326999c"
-			"1fa46f63-d49e-4de6-a459-2e332ae6e455" "215cd750-80f1-4460-ae2e-42a7ed484197"
-			"2712aa27-ee71-41cd-9c8d-d96e98421ea4" "4375e371-d8ad-4738-ba3a-f6de66331054"
-			"474a99d0-d66c-4066-8f36-81d3a0e02fcf" "5fe3f76f-1d8b-4b50-a765-ad1132709ea7"
-			"62213999-64c4-43b7-b7b8-222d0cebab23" "63b7640a-dd9e-43a8-a612-f1dc899602bc"
-			"6796e5d9-e91a-4513-a055-76eed437600a" "7c57b12d-c6b4-4da7-8bfd-d693784d2780"
-			"869d9eed-da29-49cc-91cc-f1a0fe2f8739" "8e665af0-ec38-47db-be70-235676e94f71"
-			"9499b3b6-8a14-440a-8fd4-e655c164989a" "9aa15419-ab34-48f4-b972-025a2dc6f7fb"
+			"1fa46f63-d49e-4de6-a459-2e332ae6e455" "2712aa27-ee71-41cd-9c8d-d96e98421ea4"
+			"4375e371-d8ad-4738-ba3a-f6de66331054" "474a99d0-d66c-4066-8f36-81d3a0e02fcf"
+			"5fe3f76f-1d8b-4b50-a765-ad1132709ea7" "62213999-64c4-43b7-b7b8-222d0cebab23"
+			"63b7640a-dd9e-43a8-a612-f1dc899602bc" "6796e5d9-e91a-4513-a055-76eed437600a"
+			"7c57b12d-c6b4-4da7-8bfd-d693784d2780" "869d9eed-da29-49cc-91cc-f1a0fe2f8739"
+			"8e665af0-ec38-47db-be70-235676e94f71" "9499b3b6-8a14-440a-8fd4-e655c164989a"
 			"9c650f16-9eb2-4af7-874a-bcdf01c6675d" "a903be54-86d6-40dc-9f8a-91ded9d127ef"
 			"a96071df-f5ef-42af-9fd4-3eb41633abcb" "b50b186a-9194-4e62-94ed-595b91fbbff4"
 			"b9102732-4cf0-4458-9f6e-b1357a052bb7" "ba1b6389-a106-4d01-8b02-d10e70f124b4"
@@ -344,8 +343,10 @@
 		)
 	)
 	(group ""
-		(uuid "c5de9b13-df6a-4834-8130-e1befa8f6745")
-		(members "228bedb5-2dcf-4e75-8c76-9c5d5c9224df")
+		(uuid "861db020-c49c-4c03-abbc-83592f4331ba")
+		(members "215cd750-80f1-4460-ae2e-42a7ed484197" "228bedb5-2dcf-4e75-8c76-9c5d5c9224df"
+			"9aa15419-ab34-48f4-b972-025a2dc6f7fb"
+		)
 	)
 	(group ""
 		(uuid "215cd750-80f1-4460-ae2e-42a7ed484197")

@@ -67,32 +67,6 @@
 		(layer "Edge.Cuts")
 		(uuid "642ba81b-1b57-4faf-a894-05fe2c93d6fa")
 	)
-	(fp_text user "DOUT"
-		(at 3.4 0.75 0)
-		(unlocked yes)
-		(layer "B.SilkS")
-		(uuid "0a43e8dc-7f70-4568-a529-9810883fdc1e")
-		(effects
-			(font
-				(size 0.8 0.8)
-				(thickness 0.1)
-			)
-			(justify right mirror)
-		)
-	)
-	(fp_text user "DIN"
-		(at -3.4 -0.75 0)
-		(unlocked yes)
-		(layer "B.SilkS")
-		(uuid "78771f40-979c-46d9-8fa5-9c1f371586ac")
-		(effects
-			(font
-				(size 0.8 0.8)
-				(thickness 0.1)
-			)
-			(justify left mirror)
-		)
-	)
 	(fp_text user "GND"
 		(at -3.4 0.75 0)
 		(unlocked yes)
@@ -106,10 +80,36 @@
 			(justify left mirror)
 		)
 	)
+	(fp_text user "DOUT"
+		(at 3.4 0.75 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(uuid "0a43e8dc-7f70-4568-a529-9810883fdc1e")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify right mirror)
+		)
+	)
+	(fp_text user "DIN"
+		(at -3.4 -0.75 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(uuid "78771f40-979c-46d9-8fa5-9c1f371586ac")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify left mirror)
+		)
+	)
 	(fp_text user "VDD"
 		(at 3.4 -0.75 0)
 		(unlocked yes)
-		(layer "B.SilkS")
+		(layer "B.Fab")
 		(uuid "b45b8ef9-de86-4457-b9dc-438ed2c8e8dc")
 		(effects
 			(font

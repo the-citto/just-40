@@ -56,25 +56,25 @@
 	(attr smd)
 	(fp_circle
 		(center 0 0)
-		(end 1.6 0)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(fill no)
-		(layer "F.SilkS")
-		(uuid "e1605fe8-4bbe-4002-9baa-431ddd175547")
-	)
-	(fp_circle
-		(center 0 0)
 		(end -1.6 0)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
 		(fill no)
-		(layer "B.SilkS")
+		(layer "B.Fab")
 		(uuid "c379cd93-9021-4316-b1cc-f2e0fa04fbe4")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 1.6 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "e1605fe8-4bbe-4002-9baa-431ddd175547")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 4.1 0)

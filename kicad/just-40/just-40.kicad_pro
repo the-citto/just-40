@@ -58,28 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "silk_over_copper|213547619|75832895|6ffa08ed-f55d-40b5-a1fd-0f2074a571a3|00000000-0000-0000-0000-000000000000",
-          "ok - silkscreen slightly covered"
-        ],
-        [
-          "silk_over_copper|224747352|59227352|ae3a3d1a-ed8e-48f3-946e-58b98cf4c062|00000000-0000-0000-0000-000000000000",
-          "ok - silkscreen slightly covered"
-        ],
-        [
-          "silk_over_copper|232547619|75832895|4b5705b7-9158-4832-82ac-ab069f19ec38|00000000-0000-0000-0000-000000000000",
-          "ok - silkscreen slightly covered"
-        ],
-        [
-          "silk_over_copper|247671400|59291400|ad4542fb-9e02-4ff0-9483-411f07c7cd57|00000000-0000-0000-0000-000000000000",
-          "ok - silkscreen slightly covered"
-        ],
-        [
-          "silk_over_copper|255410000|75832895|b42344e7-f28d-42c9-91db-9519d34dff42|00000000-0000-0000-0000-000000000000",
-          "ok - silkscreen slightly covered"
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -209,7 +188,10 @@
       ],
       "track_widths": [
         0.0,
-        0.4
+        0.4,
+        0.6,
+        0.8,
+        1.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -481,8 +463,12 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "just-40"
+    ],
+    "pinned_symbol_libs": [
+      "just-40"
+    ]
   },
   "meta": {
     "filename": "just-40.kicad_pro",

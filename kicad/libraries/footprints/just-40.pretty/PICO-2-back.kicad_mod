@@ -98,6 +98,50 @@
 		(layer "F.Fab")
 		(uuid "c9f581ab-796c-486d-b754-e9435b70eb9c")
 	)
+	(fp_circle
+		(center -23.5 -5.7)
+		(end -22.45 -5.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "ad8f1bef-8b6e-4c2b-baee-608df9542a75")
+	)
+	(fp_circle
+		(center -23.5 5.7)
+		(end -22.45 5.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "bf8a7980-ebb8-4ec9-876d-e3d69f9c568d")
+	)
+	(fp_circle
+		(center 23.5 -5.7)
+		(end 24.55 -5.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "89ceeb57-3a01-44a9-b7f4-43e9ad5dc2ee")
+	)
+	(fp_circle
+		(center 23.5 5.7)
+		(end 24.55 5.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "358210ec-d7bc-427b-95a5-11a5c981d0b2")
+	)
 	(fp_text user "GP6"
 		(at 3.81 8.09 270)
 		(unlocked yes)

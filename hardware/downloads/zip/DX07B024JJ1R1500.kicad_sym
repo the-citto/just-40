@@ -1,0 +1,293 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "DX07B024JJ1R1500" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "J" (id 0) (at -12.7386 18.3436 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "DX07B024JJ1R1500" (id 1) (at -12.7365 -40.6912 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "DX07B024JJ1R1500:JAE_DX07B024JJ1R1500" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MF" "JAE Electronics" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Description" "mid mount dual row SMT receptacle, 24 position, 1500 pcs/reel" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Package" "None" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Price" "None" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MP" "DX07B024JJ1R1500" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Availability" "Unavailable" (id 9) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "DX07B024JJ1R1500_0_0"
+      (rectangle (start -12.7 -38.1) (end 12.7 17.78)
+        (stroke (width 0.1524)) (fill (type background))
+      )
+      (pin power_in line (at -17.78 -10.16 0) (length 5.08)
+        (name "GNDA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -17.78 2.54 0) (length 5.08)
+        (name "TX1+"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -17.78 0.0 0) (length 5.08)
+        (name "TX1-"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at -17.78 15.24 0) (length 5.08)
+        (name "A_VBUS"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -17.78 5.08 0) (length 5.08)
+        (name "CC1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -17.78 10.16 0) (length 5.08)
+        (name "DA+"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -17.78 7.62 0) (length 5.08)
+        (name "DA-"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -17.78 -2.54 0) (length 5.08)
+        (name "SBU1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -17.78 -7.62 0) (length 5.08)
+        (name "RX2-"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -17.78 -5.08 0) (length 5.08)
+        (name "RX2+"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 17.78 -10.16 180.0) (length 5.08)
+        (name "GNDB"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 17.78 -5.08 180.0) (length 5.08)
+        (name "RX1+"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 17.78 -7.62 180.0) (length 5.08)
+        (name "RX1-"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 17.78 15.24 180.0) (length 5.08)
+        (name "B_VBUS"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 17.78 -2.54 180.0) (length 5.08)
+        (name "SBU2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 17.78 7.62 180.0) (length 5.08)
+        (name "DB-"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 17.78 10.16 180.0) (length 5.08)
+        (name "DB+"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 17.78 5.08 180.0) (length 5.08)
+        (name "CC2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 17.78 0.0 180.0) (length 5.08)
+        (name "TX2-"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 17.78 2.54 180.0) (length 5.08)
+        (name "TX2+"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 17.78 -17.78 180.0) (length 5.08)
+        (name "SHIELD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "SH1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at -17.78 12.7 0) (length 5.08)
+        (name "A_VBUS__1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at -17.78 -12.7 0) (length 5.08)
+        (name "GNDA__1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 17.78 12.7 180.0) (length 5.08)
+        (name "B_VBUS__1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 17.78 -12.7 180.0) (length 5.08)
+        (name "GNDB__1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 17.78 -20.32 180.0) (length 5.08)
+        (name "SHIELD__1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "SH2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 17.78 -22.86 180.0) (length 5.08)
+        (name "SHIELD__2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "SH3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 17.78 -25.4 180.0) (length 5.08)
+        (name "SHIELD__3"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "SH4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 17.78 -27.94 180.0) (length 5.08)
+        (name "SHIELD__4"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "SH5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 17.78 -30.48 180.0) (length 5.08)
+        (name "SHIELD__5"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "SH6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 17.78 -33.02 180.0) (length 5.08)
+        (name "SHIELD__6"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "SH7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 17.78 -35.56 180.0) (length 5.08)
+        (name "SHIELD__7"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "SH8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)

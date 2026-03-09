@@ -1,0 +1,207 @@
+(footprint "KS-33-1U"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 11.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "7e97ace7-aa7e-43d2-8232-977494a7fe91")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "KS-33-1U"
+		(at 0 -7 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "0e1138ca-88c9-4057-8cd7-2f6d299d9176")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify bottom)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "796741a2-764f-4e35-b409-21369f3c1b25")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "02577d46-91b6-4723-a7de-a71fd67c7252")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -7 -7)
+		(end -7 7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "a05286b1-5fa9-4df3-8d5d-4c9541b68317")
+	)
+	(fp_line
+		(start -7 -7)
+		(end -1.5 -7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "7277d4c7-4d6c-4d55-8e2a-d7afb784acd5")
+	)
+	(fp_line
+		(start -7 7)
+		(end -3 7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f806d7a3-14da-4add-8313-5280ded1153d")
+	)
+	(fp_line
+		(start 7 -7)
+		(end 3 -7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b22587d5-42ba-4aa9-a9b2-75dacf93a7cd")
+	)
+	(fp_line
+		(start 7 -7)
+		(end 7 7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "80053179-6f26-4c66-be64-7dc58d44ad49")
+	)
+	(fp_line
+		(start 7 7)
+		(end 4 7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "dcdff27f-d563-45d4-aed6-c453e7c3f44f")
+	)
+	(fp_line
+		(start -0.95 -5.175)
+		(end -0.45 -5.175)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "a3b4cc22-fada-4d45-bd9b-7475931ed835")
+	)
+	(fp_line
+		(start -0.7 -5.425)
+		(end -0.7 -4.925)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "e683a3bf-c815-4073-92af-5529cb21ecf1")
+	)
+	(fp_rect
+		(start -9.5 -9.5)
+		(end 9.5 9.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "beb4b896-6c89-4357-830c-467773c06ed5")
+	)
+	(fp_rect
+		(start -3.2 -6.3)
+		(end 1.8 -4.05)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "9a4be5e2-d0c8-49dc-ad93-9d921a00f7a4")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 13.75 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "21335be0-6508-4172-95a9-29bda89cbdeb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 5.25 5.25)
+		(drill 5.25)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "55a660c0-b213-44ee-9976-3d4357d94375")
+	)
+	(pad "A" thru_hole circle
+		(at -4.4 4.7)
+		(size 3 3)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "712f16b2-d5a6-4f77-bf9a-868f52f4634c")
+	)
+	(pad "B" thru_hole circle
+		(at 2.6 5.75)
+		(size 3 3)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "faa414c5-17fc-4239-8a63-d90e731c2c51")
+	)
+	(group ""
+		(uuid "30cb305e-ade1-434d-88c1-32fbf3f50bf4")
+		(members "0e1138ca-88c9-4057-8cd7-2f6d299d9176" "55a660c0-b213-44ee-9976-3d4357d94375"
+			"712f16b2-d5a6-4f77-bf9a-868f52f4634c" "7277d4c7-4d6c-4d55-8e2a-d7afb784acd5"
+			"80053179-6f26-4c66-be64-7dc58d44ad49" "9a4be5e2-d0c8-49dc-ad93-9d921a00f7a4"
+			"a05286b1-5fa9-4df3-8d5d-4c9541b68317" "a3b4cc22-fada-4d45-bd9b-7475931ed835"
+			"b22587d5-42ba-4aa9-a9b2-75dacf93a7cd" "beb4b896-6c89-4357-830c-467773c06ed5"
+			"dcdff27f-d563-45d4-aed6-c453e7c3f44f" "e683a3bf-c815-4073-92af-5529cb21ecf1"
+			"f806d7a3-14da-4add-8313-5280ded1153d" "faa414c5-17fc-4239-8a63-d90e731c2c51"
+		)
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,115 @@
+[
+  [
+    {
+      "c": "#ffcc00",
+      "t": "#333333",
+      "a": 7
+    },
+    "Esc",
+    {
+      "c": "#cccccc",
+      "a": 4
+    },
+    "1\n\n!\n\n\n\n\n\n\nQ",
+    "2\n\n@\n\n\n\n\n\n\nW",
+    "3\n\n#\n\n\n\n\n\n\nE",
+    "4\n\n$\n\n\n\n\n\n\nR",
+    "5\n\n%\n\n\n\n\n\n\nT",
+    "6\n\n^\n\n\n\n\n\n\nY",
+    "7\n\n&\n\n\n\n\n\n\nU",
+    "8\n\n*\n\n\n\n\n\n\nI\nIns",
+    "9\n\n(\n\n\n\n\n\n\nO",
+    "0\n\n)\n\n\n\n\n\n\nP",
+    {
+      "c": "#333333",
+      "t": "#cccccc",
+      "a": 5
+    },
+    "\nDel\n\n\n\n\nBack"
+  ],
+  [
+    {
+      "x": 0.25,
+      "a": 7
+    },
+    "Tab",
+    {
+      "c": "#cccccc",
+      "t": "#333333",
+      "a": 4
+    },
+    "-\n\n_\n\n\n\n\n\n\nA",
+    "=\n\n+\n\n\n\n\n\n\nS",
+    "`\n\n~\n\n\n\n\n\n\nD",
+    {
+      "a": 5
+    },
+    "\nPdDw\n\n\n\n\nF",
+    {
+      "a": 4
+    },
+    "[\n\n{\n\n\n\n\n\n\nG",
+    "]\n\n}\n\n\n\n\n\n\nH\nLeft",
+    "\\\n\n|\n\n\n\n\n\n\nJ\nDown",
+    ";\n\n:\n\n\n\n\n\n\nK\nUp",
+    "'\n\n\"\n\n\n\n\n\n\nL\nRight",
+    {
+      "c": "#ffcc00",
+      "a": 7
+    },
+    "Enter"
+  ],
+  [
+    {
+      "x": 0.75,
+      "c": "#333333",
+      "t": "#cccccc"
+    },
+    "LShift",
+    {
+      "c": "#cccccc",
+      "t": "#333333"
+    },
+    "Z",
+    "X",
+    "C",
+    "V",
+    {
+      "a": 4
+    },
+    ",\n\n<\n\n\n\n\n\n\nB\nPgUp",
+    ".\n\n>\n\n\n\n\n\n\nN",
+    "/\n\n?\n\n\n\n\n\n\nM",
+    {
+      "c": "#333333",
+      "t": "#cccccc",
+      "a": 7
+    },
+    "Fn3",
+    "RShift"
+  ],
+  [
+    {
+      "x": 2,
+      "a": 5
+    },
+    "\nRCtrl\n\n\n\n\nLCtrl",
+    "\nRWin\n\n\n\n\nLWin",
+    "\nRAlt\n\n\n\n\nLAlt",
+    {
+      "x": 0.25,
+      "c": "#ffcc00",
+      "t": "#333333",
+      "a": 7
+    },
+    "",
+    {
+      "x": 0.25,
+      "c": "#333333",
+      "t": "#cccccc"
+    },
+    "Fn0",
+    "Fn1",
+    "Fn2"
+  ]
+]

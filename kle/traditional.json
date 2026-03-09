@@ -1,6 +1,6 @@
 [
   {
-    "backcolor": "#000000",
+    "backcolor": "#999999",
     "name": "Just 40 Traditional Keys",
     "author": "The-Citto",
     "radii": "10px",
@@ -87,9 +87,6 @@
     "Shift"
   ],
   [
-    {
-      "w": 1.25
-    },
     "Ctrl",
     "Super",
     "Alt",
@@ -105,6 +102,9 @@
     },
     "Fn1",
     "Fn2",
+    {
+      "w": 1.25
+    },
     "Ctrl"
   ]
 ]

@@ -55,36 +55,6 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -11.75 -9)
-		(end -11.75 9)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "B.SilkS")
-		(uuid "e7274b43-c13d-4a18-91d2-b3ebf98faa90")
-	)
-	(fp_line
-		(start 11.75 -6.25)
-		(end 11.75 -9)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "B.SilkS")
-		(uuid "9ee4ccbc-ccb1-4c4b-952c-9af6549c5c46")
-	)
-	(fp_line
-		(start 11.75 9)
-		(end 11.75 6.25)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "B.SilkS")
-		(uuid "7dc79bbe-baba-4ed0-9dec-dd7cea28d71a")
-	)
-	(fp_line
 		(start -12 -2.499999)
 		(end -73.25 -2.499999)
 		(stroke
@@ -103,6 +73,36 @@
 		)
 		(layer "B.Fab")
 		(uuid "4bf61c51-bf67-4336-ace7-5ed10109b799")
+	)
+	(fp_line
+		(start -11.75 -9)
+		(end -11.75 9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "B.Fab")
+		(uuid "e7274b43-c13d-4a18-91d2-b3ebf98faa90")
+	)
+	(fp_line
+		(start 11.75 -6.25)
+		(end 11.75 -9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "B.Fab")
+		(uuid "9ee4ccbc-ccb1-4c4b-952c-9af6549c5c46")
+	)
+	(fp_line
+		(start 11.75 9)
+		(end 11.75 6.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "B.Fab")
+		(uuid "7dc79bbe-baba-4ed0-9dec-dd7cea28d71a")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 12.5 0)
@@ -188,11 +188,23 @@
 		(layers "B.Cu" "B.Mask" "B.Paste")
 		(uuid "78debcef-e842-4933-9b4f-3aca0c77c1c4")
 	)
+	(pad "3V3" smd circle
+		(at -5.08 -9.01 180)
+		(size 1.6 1.6)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(uuid "eae065b7-962d-41c5-966b-de85a611bb57")
+	)
 	(pad "3V3" smd oval
 		(at -5.08 -8.21 180)
 		(size 1.6 3.2)
 		(layers "B.Cu" "B.Mask" "B.Paste")
 		(uuid "b729b646-6826-42a9-9b63-7ce3b0017cc8")
+	)
+	(pad "3V3" smd circle
+		(at -5.08 -7.41 180)
+		(size 1.6 1.6)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(uuid "098d6867-fdea-4676-8e7a-840c4e161432")
 	)
 	(pad "4" smd circle
 		(at 0 7.41 180)
@@ -476,11 +488,25 @@
 		(layers "B.Cu" "B.Mask" "B.Paste")
 		(uuid "13189fb8-d947-4f48-a424-00694c4c9a32")
 	)
+	(pad "GND" smd circle
+		(at -7.62 -9.01 180)
+		(size 1.6 1.6)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(thermal_bridge_angle 0)
+		(uuid "5ff8bfb0-12d9-4c76-817c-8c50236337ed")
+	)
 	(pad "GND" smd oval
 		(at -7.62 -8.21 180)
 		(size 1.6 3.2)
 		(layers "B.Cu" "B.Mask" "B.Paste")
 		(uuid "3de7fb8b-2207-4671-a72b-089d1043fbcf")
+	)
+	(pad "GND" smd circle
+		(at -7.62 -7.41 180)
+		(size 1.6 1.6)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(thermal_bridge_angle 0)
+		(uuid "f0adac27-216b-4753-9dad-999487245cab")
 	)
 	(embedded_fonts no)
 )

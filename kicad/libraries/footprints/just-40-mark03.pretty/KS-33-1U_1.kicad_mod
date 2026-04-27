@@ -1,13 +1,13 @@
-(footprint "KS-33-1U"
-	(version 20241229)
+(footprint "KS-33-1U_1"
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at 0 11.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "7e97ace7-aa7e-43d2-8232-977494a7fe91")
+		(uuid "aa0099c2-972e-4423-b3a6-6777bb3f58cf")
 		(effects
 			(font
 				(size 1 1)
@@ -15,11 +15,11 @@
 			)
 		)
 	)
-	(property "Value" "KS-33-1U"
+	(property "Value" "KS-33-1U_1"
 		(at 0 -7 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "0e1138ca-88c9-4057-8cd7-2f6d299d9176")
+		(uuid "e1e2a112-9736-4405-927e-4d3e3eaf2cb1")
 		(effects
 			(font
 				(size 1 1)
@@ -33,7 +33,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "796741a2-764f-4e35-b409-21369f3c1b25")
+		(uuid "01dcb844-4316-4332-953f-b04272a9ca43")
 		(effects
 			(font
 				(size 1 1)
@@ -46,7 +46,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "02577d46-91b6-4723-a7de-a71fd67c7252")
+		(uuid "45e00946-d309-4a54-b433-dfe6565660d7")
 		(effects
 			(font
 				(size 1 1)
@@ -55,6 +55,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -7 -7)
 		(end -7 7)
@@ -62,8 +63,8 @@
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.SilkS")
-		(uuid "a05286b1-5fa9-4df3-8d5d-4c9541b68317")
+		(layer "F.Fab")
+		(uuid "68c72fad-bdd8-4fb9-a0a6-cda5e668aa5e")
 	)
 	(fp_line
 		(start -7 -7)
@@ -72,8 +73,8 @@
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.SilkS")
-		(uuid "7277d4c7-4d6c-4d55-8e2a-d7afb784acd5")
+		(layer "F.Fab")
+		(uuid "093b46f5-f573-4a9b-bafb-f7748dff2f84")
 	)
 	(fp_line
 		(start -7 7)
@@ -82,28 +83,8 @@
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.SilkS")
-		(uuid "f806d7a3-14da-4add-8313-5280ded1153d")
-	)
-	(fp_line
-		(start 7 -7)
-		(end 7 7)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "80053179-6f26-4c66-be64-7dc58d44ad49")
-	)
-	(fp_line
-		(start 7 7)
-		(end 3.8 7)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "dcdff27f-d563-45d4-aed6-c453e7c3f44f")
+		(layer "F.Fab")
+		(uuid "357d2a87-484e-45a7-9d3e-5ff16807c11a")
 	)
 	(fp_line
 		(start -0.95 -5.175)
@@ -113,7 +94,7 @@
 			(type default)
 		)
 		(layer "F.Fab")
-		(uuid "a3b4cc22-fada-4d45-bd9b-7475931ed835")
+		(uuid "10ca7d73-c0bb-466f-9f49-0ff4499fc4c0")
 	)
 	(fp_line
 		(start -0.7 -5.425)
@@ -123,7 +104,27 @@
 			(type default)
 		)
 		(layer "F.Fab")
-		(uuid "e683a3bf-c815-4073-92af-5529cb21ecf1")
+		(uuid "f4d8a0bd-6a23-4597-8345-fab6ccd10b83")
+	)
+	(fp_line
+		(start 7 -7)
+		(end 7 7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d16bbdc0-a3c0-4eec-96b0-8673990e3075")
+	)
+	(fp_line
+		(start 7 7)
+		(end 3.8 7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5620c052-460a-4d32-b6b1-29813724786a")
 	)
 	(fp_rect
 		(start -9.5 -9.5)
@@ -134,7 +135,7 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "beb4b896-6c89-4357-830c-467773c06ed5")
+		(uuid "4684fadd-5c15-45aa-9e47-c62bb697b8ac")
 	)
 	(fp_rect
 		(start -3.2 -6.3)
@@ -145,13 +146,13 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "9a4be5e2-d0c8-49dc-ad93-9d921a00f7a4")
+		(uuid "82c74455-311b-48fb-bc7c-ef3f11d98083")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 13.75 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "21335be0-6508-4172-95a9-29bda89cbdeb")
+		(uuid "7b20c0ac-0574-4d71-bb23-3869f0dc5248")
 		(effects
 			(font
 				(size 1 1)
@@ -164,23 +165,23 @@
 		(size 4.5 4.5)
 		(drill 5)
 		(layers "*.Cu" "*.Mask")
-		(uuid "55a660c0-b213-44ee-9976-3d4357d94375")
+		(uuid "6be9ae7b-32e0-418f-ae42-7143f1728064")
 	)
 	(pad "1" thru_hole circle
 		(at -4.4 4.7)
 		(size 3 3)
-		(drill 1)
+		(drill 1.5)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "712f16b2-d5a6-4f77-bf9a-868f52f4634c")
+		(uuid "11ffe9b4-e3b4-410b-9f72-13d8409ae40a")
 	)
 	(pad "2" thru_hole circle
 		(at 2.6 5.75)
 		(size 3 3)
-		(drill 1)
+		(drill 1.5)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "faa414c5-17fc-4239-8a63-d90e731c2c51")
+		(uuid "74fcb75d-fa17-4913-bd53-093235eac6c6")
 	)
 	(embedded_fonts no)
 )

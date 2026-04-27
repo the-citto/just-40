@@ -1,7 +1,7 @@
 (fp_lib_table
-  (version 7)
-  (lib (name "Gateron")(type "KiCad")(uri "/home/alex/.dev/just-40/kicad/libraries/footprints/Gateron.pretty")(options "")(descr ""))
-  (lib (name "just-40")(type "KiCad")(uri "/home/alex/.dev/just-40/kicad/libraries/footprints/just-40.pretty")(options "")(descr ""))
-  (lib (name "just-40-hhkb")(type "KiCad")(uri "/home/alex/.dev/just-40/kicad/libraries/footprints/just-40-hhkb.pretty")(options "")(descr ""))
-  (lib (name "just-40-mark03")(type "KiCad")(uri "/home/alex/.dev/just-40/kicad/libraries/footprints/just-40-mark03.pretty")(options "")(descr ""))
+	(version 7)
+	(lib (name "Gateron") (type "KiCad") (uri "/home/alex/.dev/just-40/kicad/libraries/footprints/Gateron.pretty") (options "") (descr ""))
+	(lib (name "just-40") (type "KiCad") (uri "/home/alex/.dev/just-40/kicad/libraries/footprints/just-40.pretty") (options "") (descr ""))
+	(lib (name "just-40-hhkb") (type "KiCad") (uri "/home/alex/.dev/just-40/kicad/libraries/footprints/just-40-hhkb.pretty") (options "") (descr ""))
+	(lib (name "just-40-mark03") (type "KiCad") (uri "/home/alex/.dev/just-40/kicad/libraries/footprints/just-40-mark03.pretty") (options "") (descr ""))
 )

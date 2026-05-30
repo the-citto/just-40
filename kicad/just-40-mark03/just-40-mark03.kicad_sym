@@ -183,8 +183,8 @@
 				)
 			)
 		)
-		(property "Value" ""
-			(at 0 0 0)
+		(property "Value" "74AHCT125"
+			(at 0.254 -10.668 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -194,7 +194,7 @@
 			)
 		)
 		(property "Footprint" "just-40-mark03:74AHCT125"
-			(at 0 0 0)
+			(at 0 -12.954 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)

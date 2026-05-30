@@ -1,4 +1,4 @@
-(footprint "1N4148"
+(footprint "1N4148_3"
 	(version 20260206)
 	(generator "pcbnew")
 	(generator_version "10.0")
@@ -7,7 +7,7 @@
 		(at 0 -5.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "f2c85617-3873-4823-aeed-3b9294fdd070")
+		(uuid "7819570e-c094-47b8-819e-e3ee5d407e99")
 		(effects
 			(font
 				(size 0.5 0.5)
@@ -15,11 +15,11 @@
 			)
 		)
 	)
-	(property "Value" "1N4148"
+	(property "Value" "1N4148_3"
 		(at -1.25 0 90)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "decfa190-b3c3-474b-bce6-fdcc1721dfc3")
+		(uuid "730daafc-b1b3-4a2c-a24f-f8e6f9f636c2")
 		(effects
 			(font
 				(size 0.5 0.5)
@@ -33,7 +33,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "441dacd6-8731-4168-b1de-762667c9f157")
+		(uuid "3ee537c6-f7cf-4475-b05a-9fa9889bdb4d")
 		(effects
 			(font
 				(size 1 1)
@@ -46,7 +46,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "c5ba0d14-414c-4964-a5e7-b5ab9098f162")
+		(uuid "ae0d2af5-e415-49aa-a081-ec5756ad2905")
 		(effects
 			(font
 				(size 1 1)
@@ -57,6 +57,26 @@
 	(attr smd)
 	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
+		(start -1 -2.3)
+		(end 1 -2.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e8fda9b1-2d52-414e-8b38-fec992f964f9")
+	)
+	(fp_line
+		(start 1 2.3)
+		(end -1 2.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "65cf92ce-f895-4e06-8f7d-53c81d187f29")
+	)
+	(fp_line
 		(start -1 -1.25)
 		(end 1 -1.25)
 		(stroke
@@ -64,7 +84,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "230cede7-e31f-4d02-802b-4e3b53b210d7")
+		(uuid "6d2feee3-4595-4841-8455-77e6bed7f01b")
 	)
 	(fp_rect
 		(start -1 -2.3)
@@ -75,13 +95,13 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "fe9a47d5-784a-4ad3-b9f8-58838991fc90")
+		(uuid "5fdb85fc-57dc-43ff-93d9-4034da0d2d7d")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 5.75 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "fe540c45-edd7-4eb4-a8dd-65e94ef39477")
+		(uuid "29151ada-e239-4419-9774-4b1a9040c920")
 		(effects
 			(font
 				(size 0.5 0.5)
@@ -95,7 +115,7 @@
 		(drill 0.9)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "6655950a-b795-4214-bd7d-9cc614b1b62f")
+		(uuid "be8b25a2-c142-4933-93bf-40048cd7e7b7")
 	)
 	(pad "K" thru_hole roundrect
 		(at 0 -4 180)
@@ -104,7 +124,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.15625)
-		(uuid "66defbe2-6f5c-481a-aa47-64d450fd9d71")
+		(uuid "b44f7f39-4e02-4834-a0ce-12be43371d7a")
 	)
 	(embedded_fonts no)
 )

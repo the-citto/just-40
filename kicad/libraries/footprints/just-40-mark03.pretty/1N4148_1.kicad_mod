@@ -1,4 +1,4 @@
-(footprint "1N4148"
+(footprint "1N4148_1"
 	(version 20260206)
 	(generator "pcbnew")
 	(generator_version "10.0")
@@ -7,7 +7,7 @@
 		(at 0 -5.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "f2c85617-3873-4823-aeed-3b9294fdd070")
+		(uuid "7dc68b86-330e-4fdf-9bec-4b35c94b7db8")
 		(effects
 			(font
 				(size 0.5 0.5)
@@ -15,11 +15,11 @@
 			)
 		)
 	)
-	(property "Value" "1N4148"
+	(property "Value" "1N4148_1"
 		(at -1.25 0 90)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "decfa190-b3c3-474b-bce6-fdcc1721dfc3")
+		(uuid "d06675d7-6c83-48e1-a108-4d07524bad8a")
 		(effects
 			(font
 				(size 0.5 0.5)
@@ -33,7 +33,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "441dacd6-8731-4168-b1de-762667c9f157")
+		(uuid "7f9ae7ed-5008-4b32-8178-f45dd15c0acb")
 		(effects
 			(font
 				(size 1 1)
@@ -46,7 +46,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "c5ba0d14-414c-4964-a5e7-b5ab9098f162")
+		(uuid "ed158453-b349-40cd-bb7e-5857a35b0f94")
 		(effects
 			(font
 				(size 1 1)
@@ -64,7 +64,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "230cede7-e31f-4d02-802b-4e3b53b210d7")
+		(uuid "8c1b39bf-bc37-4c95-bb81-b30f80bf4a11")
 	)
 	(fp_rect
 		(start -1 -2.3)
@@ -75,13 +75,13 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "fe9a47d5-784a-4ad3-b9f8-58838991fc90")
+		(uuid "ddd3b31f-47a3-42e0-b2e6-47740340a242")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 5.75 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "fe540c45-edd7-4eb4-a8dd-65e94ef39477")
+		(uuid "f376f873-b9fd-4b93-bc52-cc9487bfe410")
 		(effects
 			(font
 				(size 0.5 0.5)
@@ -95,7 +95,7 @@
 		(drill 0.9)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "6655950a-b795-4214-bd7d-9cc614b1b62f")
+		(uuid "ef42d9ce-10f4-494d-9107-3940990bf668")
 	)
 	(pad "K" thru_hole roundrect
 		(at 0 -4 180)
@@ -104,7 +104,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.15625)
-		(uuid "66defbe2-6f5c-481a-aa47-64d450fd9d71")
+		(uuid "3619d539-1f24-425b-9f4a-daf1b554b369")
 	)
 	(embedded_fonts no)
 )

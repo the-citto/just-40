@@ -1,13 +1,13 @@
 (footprint "hole-mount"
-	(version 20241229)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at 0 -3.25 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "152e29a6-4264-4561-9e5f-eb3175bd3c4d")
+		(uuid "b202f83a-4a64-43c6-86e9-816ff94f41d8")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 		(at 0 3.75 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "7053f30b-d09e-41d2-966c-2251a9f874ef")
+		(uuid "0caa3de7-5ac6-486b-823c-b5f9edc32d59")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "e4cd0f3d-a5e2-48cd-8259-9d763c54b8e5")
+		(uuid "8adf5e2b-b875-4911-993e-2d111503f22d")
 		(effects
 			(font
 				(size 1 1)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "8b72b1d1-856d-4b41-bc97-dde6dbb94823")
+		(uuid "776d7817-df5d-43a5-b901-8ab8d61bd695")
 		(effects
 			(font
 				(size 1 1)
@@ -54,33 +54,34 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_circle
 		(center 0 0)
 		(end 2 0)
 		(stroke
-			(width 0.1)
+			(width 0.05)
 			(type solid)
 		)
 		(fill no)
-		(layer "B.Fab")
-		(uuid "6b866d69-289f-40fd-bbfa-3d28861ac07b")
+		(layer "B.CrtYd")
+		(uuid "3f3a7a2f-5cea-40fe-98a5-3170489ccba6")
 	)
 	(fp_circle
 		(center 0 0)
 		(end 2 0)
 		(stroke
-			(width 0.1)
+			(width 0.05)
 			(type solid)
 		)
 		(fill no)
-		(layer "F.Fab")
-		(uuid "14211aac-865e-46df-b661-3e0c6ea64d35")
+		(layer "F.CrtYd")
+		(uuid "74fc5a8b-9681-44ec-8f0e-07ce55a12a15")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 5.25 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "c84bc030-9d44-471a-ac1e-bfd4bde222e8")
+		(uuid "a53d7711-822c-417e-81c5-729d0d453c60")
 		(effects
 			(font
 				(size 1 1)
@@ -90,11 +91,11 @@
 	)
 	(pad "" np_thru_hole circle
 		(at 0 0 90)
-		(size 2 2)
-		(drill 2)
+		(size 1.9 1.9)
+		(drill 1.9)
 		(layers "*.Cu" "*.Mask")
-		(clearance 1.25)
-		(uuid "d2a131f9-05d8-4685-9160-fd2e59d7be15")
+		(clearance 1.5)
+		(uuid "e4280e1a-c884-4bf5-9587-f82ad43dd0cd")
 	)
 	(embedded_fonts no)
 )

@@ -554,7 +554,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "gerber/",
+      "plot": "../gerber/mark-03/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "just-40-mark03.step",
@@ -713,7 +713,7 @@
         "uuid": "22f63931-af55-4a8b-988f-5cf923b647e5"
       }
     ],
-    "used_designators": "",
+    "used_designators": "SW1-120,H1-58,D1-120,A1-6,#PWR1-6",
     "variants": []
   },
   "sheets": [

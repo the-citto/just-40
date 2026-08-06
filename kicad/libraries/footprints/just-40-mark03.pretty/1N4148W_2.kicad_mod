@@ -1,13 +1,13 @@
-(footprint "C104"
+(footprint "1N4148W_2"
 	(version 20260206)
 	(generator "pcbnew")
 	(generator_version "10.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0.5 0 0)
+		(at 0 -1.6 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "5445d132-30e0-4882-8770-188fb1ff23f0")
+		(uuid "65936fbc-121a-4ffe-8506-87f1121c13b4")
 		(effects
 			(font
 				(size 0.5 0.5)
@@ -15,11 +15,11 @@
 			)
 		)
 	)
-	(property "Value" "C104"
-		(at 0 1.25 0)
+	(property "Value" "1N4148W_2"
+		(at 0 1.4 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "b72c89df-9f7c-413e-b6a9-103d109357b6")
+		(uuid "f3b6b1e4-ccaa-437e-a34f-4218dca7d635")
 		(effects
 			(font
 				(size 0.5 0.5)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "2e816965-221a-4c54-892d-f96fdb6cce8d")
+		(uuid "d7e853c1-9bb2-4778-b9b0-af1418a4c173")
 		(effects
 			(font
 				(size 1 1)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "b5163455-588d-4bc3-bdda-08d3213f9e97")
+		(uuid "aed9d699-b661-44e0-8944-2b281804e6a0")
 		(effects
 			(font
 				(size 1 1)
@@ -55,53 +55,48 @@
 	)
 	(attr smd)
 	(duplicate_pad_numbers_are_jumpers no)
-	(fp_line
-		(start -0.75 -0.75)
-		(end 0.75 -0.75)
+	(fp_rect
+		(start -1.4 -0.9)
+		(end 1.4 0.9)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
+		(fill no)
 		(layer "F.Fab")
-		(uuid "616e169e-53cf-4139-84b3-760ccbe8561d")
-	)
-	(fp_line
-		(start -0.75 0.75)
-		(end 0.75 0.75)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-		(uuid "a579378f-a8f9-44c2-866e-eeb2a7b7c73f")
+		(uuid "e4c9ac37-9718-4da7-8226-72ca38f3cd17")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 -1.25 0)
+		(at 0 2.2 0)
 		(unlocked yes)
-		(layer "F.Fab")
-		(uuid "a971cc64-3975-4364-92c6-acb8c37f156d")
+		(layer "B.Fab")
+		(uuid "00f717f8-57fc-4386-9630-ddbadf7f2cfa")
 		(effects
 			(font
 				(size 0.5 0.5)
 				(thickness 0.125)
 			)
+			(justify mirror)
 		)
 	)
-	(pad "1" thru_hole circle
-		(at -1.5 0)
-		(size 1.6 1.6)
-		(drill 1)
+	(pad "A" thru_hole roundrect
+		(at 1.6 0)
+		(size 1.2 1.2)
+		(drill 0.6)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "07184ef2-1e44-43dd-a172-e3621887094b")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "0760826e-d2fc-439e-8f42-b71a678fc482")
 	)
-	(pad "2" thru_hole circle
-		(at 1.5 0)
-		(size 1.6 1.6)
-		(drill 1)
+	(pad "K" thru_hole rect
+		(at -1.6 0)
+		(size 1.2 1.2)
+		(drill 0.6)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "1172c69d-3cb6-45c1-9577-250b70fbd49c")
+		(thermal_bridge_angle 45)
+		(uuid "a5e0ba81-f3f1-4e50-9374-8488a7a49c38")
 	)
 	(embedded_fonts no)
 )
